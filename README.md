@@ -5,3 +5,5 @@ One of my first c# application so it is very amateur, but everyone has to start 
 
 Project has been made for class from "Technologie sieciowe" (network technologies) at my third semester.
 Fell free if You need this project at Your task in college.
+
+@2015
